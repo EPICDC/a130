@@ -189,6 +189,8 @@ To ensure proper safeguards, agencies shall:
  g) Conduct privacy impact assessments when developing, procuring, or using information technology, in accordance with the E-Government Act,<sup id="fnr10"><a href="#fn10">10</a></sup> and make the assessments available to the public in accordance with OMB policy; and
  
  h) Maintain and post privacy policies on all agency websites, in accordance with OMB policy.
+ 
+ i) Ensure that agency websites do not collect and retain website visitors’ PII (including IP addresses, MAC addresses, web cookies, and browser fingerprints), and ensure that agency websites do not track website visitors.
 
 **2) Information Security**
 
@@ -266,6 +268,13 @@ Agencies shall:
   e) Ensuring that government publications are made available to depository libraries through the Government Publishing Office.<sup id="fnr15"><a href="#fn15">15</a></sup> 
   
   f) Taking advantage of all dissemination channels, including Federal, State, local, tribal, territorial governments, libraries, nonprofit, and private sector entities, in discharging agency information dissemination responsibilities.
+  
+  g) Making available and accessible to the public on the agency’s website:
+    i.    the agency’s authorizing statutes (current and former);
+    ii.   the agency’s rules and regulations issued pursuant to the Administrative Procedure Act (APA) (current and former);
+    iii.  the agency’s adjudications made pursuant to the APA (current and former);
+    iv.   the agency’s guidance and interpretive rules, issued pursuant to the APA (current and former); and
+    v.    documents from all court cases involving the agency (pending and concluded).
 
 5) Agencies shall manage information in accordance with the following principles:
   
