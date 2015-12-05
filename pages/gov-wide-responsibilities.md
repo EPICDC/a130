@@ -70,6 +70,10 @@ The Archivist of the United States shall:
   2. Develop requirements relating to electronic records management in consultation with OMB;
   3. Work with agencies to ensure the transfer of permanent Federal electronic records to the National Archives of the United States in digital or electronic form to the greatest extent possible;<sup id="fnr29"><a href="#fn29">29</a></sup> and 
   4. Ensure agency compliance with records management requirements, provide records management training, and facilitate public access to high-value government records.<sup id="fnr30"><a href="#fn30">30</a></sup>
+  5. Make available and accessible to the public online in a centralized website all:
+    (a) federal congressional legislation (pending and enacted);
+    (b) federal statutes (current and former)
+    (c) federal agency regulations (current and former).
 
 #####e. Office of Personnel Management
 
